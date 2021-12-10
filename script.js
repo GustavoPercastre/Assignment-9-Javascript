@@ -10,7 +10,7 @@ console.log("What worked really well for me over the last 9 weeks were coming in
 // change about the course?
 
 console.log("What would you change about the course?");
-console.log("");
+console.log("I would change adding another day for learning in person instead of just the one day we got.");
 
 // 3. Write a console.log() statement that answers the following question: Did you learn
 // what you expected to learn in this course?
