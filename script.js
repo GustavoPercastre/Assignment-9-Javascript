@@ -24,4 +24,4 @@ console.log("I did learn what I expected which was better understand of javascri
 console.log(
   "What concepts were new to you and what concepts had you encountered already in the past?"
 );
-console.log("");
+console.log("I didn't know that information could be stored in local and session storage, I also didn't know that javascript could be used as a great calculator. And as I said before I didn't know a lot about javascript but what I did know is that you could have created games using it.");
