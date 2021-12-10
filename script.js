@@ -4,7 +4,7 @@
 console.log(
   "What worked well for you over the last 9 weeks that aided in your learning process?"
 );
-console.log("");
+console.log("What worked really well for me over the last 9 weeks were coming into class and learning directly from you.");
 
 // 2. Write a console.log() statement that answers the following question: What would you
 // change about the course?
